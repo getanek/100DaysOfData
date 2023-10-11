@@ -96,8 +96,6 @@
 |Day 86|January 3, 2024|  |  |
 |Day 87|January 4, 2024|  |  |
 |Day 88|January 5, 2024|  |  |
-
-
 |Day 89|January 6, 2024|  |  |
 |Day 90|January 7, 2024|  |  |
 |Day 91|January 8, 2024|  |  |
