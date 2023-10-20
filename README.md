@@ -7,7 +7,7 @@
 
 | **Day :pushpin:** | **Date &nbsp;:calendar:** | **Activities :alarm_clock:** | **Notes :memo:** |
 |------|-----------------|--------------------|---------------------|
-|Day 1|October 20, 2023|  |  |
+|Day 1|October 20, 2023|Organized all priority courses   | [view](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF) |
 |Day 2|October 21, 2023|  |  |
 |Day 3|October 22, 2023|  |  |
 |Day 4|October 23, 2023|  |  |
